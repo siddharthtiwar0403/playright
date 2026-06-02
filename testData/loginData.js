@@ -13,5 +13,10 @@ module.exports = [
     username: 'tomsmith',
     password: 'wrong',
     expected: 'Your password is invalid!',
+  },
+  {
+    username: 'siddharthtiwari0403',
+    password: 'Siddharth@123',
+    expected: 'Your password is correct'
   }
 ];
